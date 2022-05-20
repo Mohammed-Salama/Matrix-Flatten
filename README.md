@@ -9,6 +9,6 @@ C++
 
 
 # Testing:
-![image](https://github.com/Mohammed-Salama/Matrix-Flatten/blob/main/1.png)
+![image](https://github.com/Mohammed-Salama/Matrix-Flatten/blob/main/ScreenShots/1.png)
 
 
